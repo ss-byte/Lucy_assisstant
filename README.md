@@ -1,4 +1,4 @@
-# Lucy_assisstant
+# Lucy_assistant
 
 An attempt to make a very simple, Personal Assistant that understands speech as well as text input and is capable of performing tasks other than conversing. LUCY can perform some simple tasks such as:
 
